@@ -1,5 +1,6 @@
 # mask_detection_pytorch
-This repo is dedicated for training a mask detection model written in pytorch. **Don't** forget to change the {directory path} of your train/test data.
+* This repo is dedicated for training a mask detection model written in pytorch.
+* **Don't** forget to change the {directory path} of your train/test data.
 
 ### SetUp environment
 ```pip install -r requirements.txt```
